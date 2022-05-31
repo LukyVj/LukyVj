@@ -14,24 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=LukyVj&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=lukyvj)](https://github.com/gazf/github-readme-twitter)
 
