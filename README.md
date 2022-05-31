@@ -30,6 +30,8 @@ Here are some ideas to get you started:
   <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=lukyvj&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
+
+## 🐦 🎵 My Twitter & Spotify
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=lukyvj)](https://github.com/gazf/github-readme-twitter)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1129705580&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
