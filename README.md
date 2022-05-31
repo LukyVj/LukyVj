@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=LukyVj&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=LukyVj" width="400"/>
+</a>
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=lukyvj)](https://github.com/gazf/github-readme-twitter)
 
