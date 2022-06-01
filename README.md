@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 📊 Github stats
+![](https://komarev.com/ghpvc/?username=LukyVj&label=PROFILE+VIEWS) ![](https://gitwar.herokuapp.com/badge?username=LukyVj&style=flat-square)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=LukyVj&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
