@@ -1,4 +1,4 @@
-### Hi there 👋
+![download](https://user-images.githubusercontent.com/1630200/171373072-354f6264-690c-4c8d-a5c9-dd5094e4d35e.png)
 
 <!--
 **LukyVj/LukyVj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
