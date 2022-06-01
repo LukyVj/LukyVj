@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LukyVj&theme=github-light&hide_border=true)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=lukyvj&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### 💻 GitHub Profile Stats
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=lukyvj&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
