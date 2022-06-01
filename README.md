@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 ## StackOverflow stats
+[![LukyVj StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1331432)](https://stackoverflow.com/users/1331432/lukyvj)
 [![LukyVj StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/1331432)](https://stackoverflow.com/users/1331432/lukyvj)
 
 
