@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=LukyVj&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LukyVj&theme=github-light&hide_border=true)](https://git.io/streak-stats)
+
 ### 💻 GitHub Profile Stats
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=lukyvj&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
@@ -30,6 +32,8 @@ Here are some ideas to get you started:
   <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=lukyvj&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 
+## Overall Github Activity
+<!--START_SECTION:activity-->
 
 ## StackOverflow stats
 [![LukyVj StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/1331432)](https://stackoverflow.com/users/1331432/lukyvj)
