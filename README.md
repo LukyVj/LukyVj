@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lukyvj&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://pagespeed-insights.herokuapp.com/?url=https://algolia.com)
+![Lucasbonomi.com stats](https://pagespeed-insights.herokuapp.com/?url=https://lucasbonomi.com)
+
 
 ### 💻 GitHub Profile Stats
   <br/>
