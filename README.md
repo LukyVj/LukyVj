@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 
 ## Overall Github Activity
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#86](https://github.com/LukyVj/family.scss/pull/86) in [LukyVj/family.scss](https://github.com/LukyVj/family.scss)
+2. 🗣 Commented on [#103](https://github.com/LukyVj/family.scss/issues/103) in [LukyVj/family.scss](https://github.com/LukyVj/family.scss)
+3. 🎉 Merged PR [#103](https://github.com/LukyVj/family.scss/pull/103) in [LukyVj/family.scss](https://github.com/LukyVj/family.scss)
+<!--END_SECTION:activity-->
 
 ## StackOverflow stats
 [![LukyVj StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1331432)](https://stackoverflow.com/users/1331432/lukyvj)
