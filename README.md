@@ -62,7 +62,11 @@ Here are some ideas to get you started:
 <tbody>
 <tr data-sourcepos="42:1-42:137">
 <td data-sourcepos="42:2-42:135"><a href="https://github.com/gazf/github-readme-twitter"><img src="https://camo.githubusercontent.com/002a2b86254053cc6dd61cb7c53e0845c656aac9a03e1b829c9804e911d4a7e7/68747470733a2f2f6769746875622d726561646d652d747769747465722e67617a662e76657263656c2e6170702f6170693f69643d6c756b79766a" alt="github-readme-twitter" data-canonical-src="https://github-readme-twitter.gazf.vercel.app/api?id=lukyvj" style="max-width: 100%;"></a></td>
-<td data-sourcepos="42:0-42:0"><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://camo.githubusercontent.com/67431ae1900a806fa413465edaff0a85ff2570e03863d3d74184a6a25d0f200f/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e76657263656c2e6170702f6170692f766965773f7569643d3131323937303535383026636f7665725f696d6167653d74727565267468656d653d64656661756c74" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=1129705580&amp;cover_image=true&amp;theme=default" style="max-width: 100%;"></a></td>
+<td data-sourcepos="42:0-42:0">
+  
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1129705580)
+  
+  </td>
 </tr>
 
 </tbody>
