@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 ## Overall Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/algolia/jekyll-algolia-example/pull/8) in [algolia/jekyll-algolia-example](https://github.com/algolia/jekyll-algolia-example)
-2. 💪 Opened PR [#7](https://github.com/algolia/jekyll-algolia-example/pull/7) in [algolia/jekyll-algolia-example](https://github.com/algolia/jekyll-algolia-example)
-3. 🎉 Merged PR [#1185](https://github.com/algolia/places/pull/1185) in [algolia/places](https://github.com/algolia/places)
+1. 🗣 Commented on [#692](https://github.com/mjmlio/mjml/issues/692) in [mjmlio/mjml](https://github.com/mjmlio/mjml)
+2. 💪 Opened PR [#8](https://github.com/algolia/jekyll-algolia-example/pull/8) in [algolia/jekyll-algolia-example](https://github.com/algolia/jekyll-algolia-example)
+3. 💪 Opened PR [#7](https://github.com/algolia/jekyll-algolia-example/pull/7) in [algolia/jekyll-algolia-example](https://github.com/algolia/jekyll-algolia-example)
 <!--END_SECTION:activity-->
 
 ## StackOverflow stats
