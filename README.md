@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 ## Overall Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#86](https://github.com/LukyVj/family.scss/pull/86) in [LukyVj/family.scss](https://github.com/LukyVj/family.scss)
-2. 🗣 Commented on [#103](https://github.com/LukyVj/family.scss/issues/103) in [LukyVj/family.scss](https://github.com/LukyVj/family.scss)
-3. 🎉 Merged PR [#103](https://github.com/LukyVj/family.scss/pull/103) in [LukyVj/family.scss](https://github.com/LukyVj/family.scss)
+1. 💪 Opened PR [#1185](https://github.com/algolia/places/pull/1185) in [algolia/places](https://github.com/algolia/places)
+2. ❗️ Opened issue [#1184](https://github.com/algolia/places/issues/1184) in [algolia/places](https://github.com/algolia/places)
+3. ❌ Closed PR [#86](https://github.com/LukyVj/family.scss/pull/86) in [LukyVj/family.scss](https://github.com/LukyVj/family.scss)
 <!--END_SECTION:activity-->
 
 ## StackOverflow stats
