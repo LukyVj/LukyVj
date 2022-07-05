@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 ## Overall Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1185](https://github.com/algolia/places/pull/1185) in [algolia/places](https://github.com/algolia/places)
-2. ❗️ Opened issue [#1184](https://github.com/algolia/places/issues/1184) in [algolia/places](https://github.com/algolia/places)
-3. ❌ Closed PR [#86](https://github.com/LukyVj/family.scss/pull/86) in [LukyVj/family.scss](https://github.com/LukyVj/family.scss)
+1. 💪 Opened PR [#8](https://github.com/algolia/jekyll-algolia-example/pull/8) in [algolia/jekyll-algolia-example](https://github.com/algolia/jekyll-algolia-example)
+2. 💪 Opened PR [#7](https://github.com/algolia/jekyll-algolia-example/pull/7) in [algolia/jekyll-algolia-example](https://github.com/algolia/jekyll-algolia-example)
+3. 🎉 Merged PR [#1185](https://github.com/algolia/places/pull/1185) in [algolia/places](https://github.com/algolia/places)
 <!--END_SECTION:activity-->
 
 ## StackOverflow stats
