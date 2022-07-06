@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 ## Overall Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#692](https://github.com/mjmlio/mjml/issues/692) in [mjmlio/mjml](https://github.com/mjmlio/mjml)
-2. 🗣 Commented on [#692](https://github.com/mjmlio/mjml/issues/692) in [mjmlio/mjml](https://github.com/mjmlio/mjml)
+1. 🗣 Commented on [#7](https://github.com/algolia/jekyll-algolia-example/issues/7) in [algolia/jekyll-algolia-example](https://github.com/algolia/jekyll-algolia-example)
+2. 🗣 Commented on [#8](https://github.com/algolia/jekyll-algolia-example/issues/8) in [algolia/jekyll-algolia-example](https://github.com/algolia/jekyll-algolia-example)
 3. 🗣 Commented on [#692](https://github.com/mjmlio/mjml/issues/692) in [mjmlio/mjml](https://github.com/mjmlio/mjml)
 <!--END_SECTION:activity-->
 
