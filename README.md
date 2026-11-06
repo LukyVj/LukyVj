@@ -1,73 +1,34 @@
-![download](https://user-images.githubusercontent.com/1630200/171373072-354f6264-690c-4c8d-a5c9-dd5094e4d35e.png)
+<a href="https://lucasbonomi.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.webp">
+    <img alt="Lucas Bonomi, Design Engineer at Strapi" src="./assets/banner-light.webp" width="100%">
+  </picture>
+</a>
 
-<!--
-**LukyVj/LukyVj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+I am a design engineer and creative coder. I work where design and code meet: CSS, shaders, design systems and the tools around them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now I am a **Senior Design Engineer at [Strapi](https://strapi.io)**. Before that, I spent 9 years at **[Algolia](https://www.algolia.com)**. I joined as one of the first 20 employees.
 
-## 📊 Github stats
-![](https://komarev.com/ghpvc/?username=LukyVj&label=PROFILE+VIEWS) ![](https://gitwar.herokuapp.com/badge?username=LukyVj&style=flat-square)
+### Now
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=LukyVj&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+- **[GSS](https://github.com/LukyVj/GSS)**: GPU Style Sheets. A CSS-like language for 3D scenes. It compiles selectors, the cascade and keyframes into one raymarching shader for WebGPU and WebGL2. → [gss-lang.dev](https://www.gss-lang.dev)
+- **[Skillify](https://github.com/LukyVj/skillify)**: turn any technical post into a skill for your AI agent. → [getskillify.dev](https://getskillify.dev)
+- **Strapi**: design and front-end work on the open-source headless CMS.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LukyVj&theme=github-light&hide_border=true)](https://git.io/streak-stats)
+### Selected open source
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lukyvj&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+| Project | What it does | |
+| --- | --- | --- |
+| [family.scss](https://github.com/LukyVj/family.scss) | Sass mixins for `:nth-child` selectors, made easy | ![](https://img.shields.io/github/stars/LukyVj/family.scss?style=flat-square&label=%E2%98%85&color=879b00&labelColor=22241c) |
+| [Colorify.js](https://github.com/LukyVj/Colorify.js) | A tiny JavaScript color extractor | ![](https://img.shields.io/github/stars/LukyVj/Colorify.js?style=flat-square&label=%E2%98%85&color=879b00&labelColor=22241c) |
+| [colofilter.css](https://github.com/LukyVj/colofilter.css) | Duotone filters in pure CSS | ![](https://img.shields.io/github/stars/LukyVj/colofilter.css?style=flat-square&label=%E2%98%85&color=879b00&labelColor=22241c) |
+| [menu-to-cross-icon](https://github.com/LukyVj/menu-to-cross-icon) | One idea, six CSS animations | ![](https://img.shields.io/github/stars/LukyVj/menu-to-cross-icon?style=flat-square&label=%E2%98%85&color=879b00&labelColor=22241c) |
+| [accecss](https://github.com/LukyVj/accecss) | A Sass mixin that checks the accessibility of your designs | ![](https://img.shields.io/github/stars/LukyVj/accecss?style=flat-square&label=%E2%98%85&color=879b00&labelColor=22241c) |
 
-![Lucasbonomi.com stats](https://pagespeed-insights.herokuapp.com/?url=https://lucasbonomi.com)
+### Elsewhere
 
+[lucasbonomi.com](https://lucasbonomi.com) · [X / Twitter](https://x.com/LukyVj) · [Stack Overflow](https://stackoverflow.com/users/1331432/lukyvj)
 
-### 💻 GitHub Profile Stats
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=lukyvj&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukyvj&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  
-### 📈 Activity Graph
-  <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=lukyvj&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
-
-## Overall Github Activity
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/algolia/jekyll-algolia-example/pull/9) in [algolia/jekyll-algolia-example](https://github.com/algolia/jekyll-algolia-example)
-2. 💪 Opened PR [#9](https://github.com/algolia/jekyll-algolia-example/pull/9) in [algolia/jekyll-algolia-example](https://github.com/algolia/jekyll-algolia-example)
-3. 🎉 Merged PR [#322](https://github.com/algolia/algolia.github.io/pull/322) in [algolia/algolia.github.io](https://github.com/algolia/algolia.github.io)
-<!--END_SECTION:activity-->
-
-## StackOverflow stats
-[![LukyVj StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1331432)](https://stackoverflow.com/users/1331432/lukyvj)
-[![LukyVj StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/1331432)](https://stackoverflow.com/users/1331432/lukyvj)
-
-
-
-## 🐦 🎵 My Twitter & Spotify
-
-<table data-sourcepos="40:1-43:178">
-<thead>
-<tr data-sourcepos="40:1-40:8">
-<th data-sourcepos="40:2-40:4"></th>
-<th data-sourcepos="40:6-40:7"></th>
-</tr>
-</thead>
-<tbody>
-<tr data-sourcepos="42:1-42:137">
-<td data-sourcepos="42:2-42:135"><a href="https://github.com/gazf/github-readme-twitter"><img src="https://camo.githubusercontent.com/002a2b86254053cc6dd61cb7c53e0845c656aac9a03e1b829c9804e911d4a7e7/68747470733a2f2f6769746875622d726561646d652d747769747465722e67617a662e76657263656c2e6170702f6170693f69643d6c756b79766a" alt="github-readme-twitter" data-canonical-src="https://github-readme-twitter.gazf.vercel.app/api?id=lukyvj" style="max-width: 100%;"></a></td>
-<td data-sourcepos="42:0-42:0">
-  
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1129705580)
-  
-  </td>
-</tr>
-
-</tbody>
-</table>
+<sub>The banner is a GSS scene, rendered headless. Source: [`banner/`](banner).</sub>
