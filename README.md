@@ -1,7 +1,7 @@
 <a href="https://lucasbonomi.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-    <img alt="Lucas Bonomi, Design Engineer at Strapi" src="./assets/header-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.webp">
+    <img alt="Lucas Bonomi, Design Engineer at Strapi" src="./assets/banner-light.webp" width="100%">
   </picture>
 </a>
 
@@ -30,3 +30,5 @@ Now I am a **Senior Design Engineer at [Strapi](https://strapi.io)**. Before tha
 ### Elsewhere
 
 [lucasbonomi.com](https://lucasbonomi.com) · [X / Twitter](https://x.com/LukyVj) · [Stack Overflow](https://stackoverflow.com/users/1331432/lukyvj)
+
+<sub>The banner is a GSS scene, rendered headless. Source: [`banner/`](banner).</sub>
